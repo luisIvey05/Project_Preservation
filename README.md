@@ -23,7 +23,8 @@ Classical approaches to 3D reconstruction require many meticulous steps and expe
 
 ## Pipeline
 
-![](https://raw.githubusercontent.com/isl-org/Open3D-ML/master/docs/images/getting_started_ml_visualizer.gif)
+![](https://raw.github.com/luisIvey05/Project_Preservation/tree/main/images/pipeline.png)
+
 
 <p id="res"> </p>
 
