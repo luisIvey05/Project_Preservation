@@ -22,11 +22,10 @@ Classical approaches to 3D reconstruction require many meticulous steps and expe
 <p id="pipe"> </p>
 
 ## Pipeline
-```
+
 
 ![](https://github.com/luisIvey05/Project_Preservation/blob/main/images/pipeline.png)
 
-```
 
 <p id="res"> </p>
 
