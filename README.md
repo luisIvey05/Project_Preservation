@@ -23,7 +23,7 @@ Classical approaches to 3D reconstruction require many meticulous steps and expe
 
 ## Pipeline
 
-![](https://github.com/luisIvey05/Project_Preservation/tree/main/images/pipeline.png)
+![](https://github.com/luisIvey05/Project_Preservation/blob/main/images/pipeline.png)
 
 
 <p id="res"> </p>
