@@ -39,7 +39,7 @@ NumPy 1.23.3
 <p id="res"> </p>
 
 ## Results
-More results <a href=https://drive.google.com/drive/u/0/folders/1pMyhqYAM914cFNwpjgUfRHkPdjftHFvV> here </a> 
+More results <a href=https://drive.google.com/drive/u/0/folders/1pMyhqYAM914cFNwpjgUfRHkPdjftHFvV> here </a> <br />
 ![](https://github.com/luisIvey05/Project_Preservation/blob/main/images/Iris.gif)
 ![](https://github.com/luisIvey05/Project_Preservation/blob/main/images/Perseus.gif)
 ![](https://github.com/luisIvey05/Project_Preservation/blob/main/images/Buddha.gif)
